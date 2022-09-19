@@ -1,0 +1,13 @@
+.img-circle {
+    border-radius: 50%;
+}
+.m-x-auto {
+    margin-right: auto!important;
+    margin-left: auto!important;
+}
+.text-xs-center {
+    text-align: center!important;
+}
+.m-t-2 {
+    margin-top: 1.5rem!important;
+}
